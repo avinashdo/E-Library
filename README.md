@@ -17,17 +17,17 @@ Available features:
 
 User:
 
-* User Login and Registration
-* Auto redirecting after creating an account
-* Request the book
-* Download the book
+ * User Login and Registration
+ * Auto redirecting after creating an account
+ * Request the book
+ * Download the book
 
 Admin:
 
-* Admin login
-* Add the book 
-* Edit the book
-* Delete the book
+ * Admin login
+ * Add the book 
+ * Edit the book
+ * Delete the book
 
 
 Admin:
