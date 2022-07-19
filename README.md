@@ -32,10 +32,10 @@ Admin:
 
 Admin:
 
-    only admin can change anything in the database like edit,add and delete any book in the database.
+   only admin can change anything in the database like edit,add and delete any book in the database.
   In this project the admin details are fixed by the developer.
   
 User:
 
-    first the user needs to register to create an account.If he already has an account the authentication occurs by comparing
+   first the user needs to register to create an account.If he already has an account the authentication occurs by comparing
   the details in the database. If matched then he gets to enter into the website and get access to the all the study materials.
