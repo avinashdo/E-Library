@@ -39,3 +39,9 @@ User:
 
    first the user needs to register to create an account.If he already has an account the authentication occurs by comparing
   the details in the database. If matched then he gets to enter into the website and get access to the all the study materials.
+
+Team Members:
+
+ * Pedapati Avinash
+ * Kolli Naveen Sai
+ * Satyavarapu Yashwanth
